@@ -1,0 +1,32 @@
+.componenteSubscripcion{
+    background-color: $color1;
+    width: 96%;
+    height: 150px;
+    margin-left: 2%;
+    margin-right: 2%;
+    border-radius: 5px;
+}
+
+.textoSubscripcion{
+    color:white;
+    text-align: left;
+    font-size: 24px;
+    margin-left: 10%;
+}
+
+.inputSubscripcion{
+    width: 22%;
+    height: 40px;
+    margin-left: 10%;
+    font-size: 20px;
+}
+
+.botonSubscripcion{
+    color: black;
+    background-color: $color2;
+    height: 40px;
+    width: 120px;
+    margin-left: 50%;
+    font-size: 15px;
+    font-weight: 800;
+}

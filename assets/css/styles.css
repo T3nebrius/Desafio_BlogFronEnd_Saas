@@ -1,0 +1,124 @@
+/* abstracts */
+/* base */
+/* components */
+.boton {
+  border-radius: 5px;
+  width: 350px;
+  height: 30px;
+  font-size: 16px;
+  font-weight: 800;
+}
+
+.inputsFormulario {
+  height: 40px;
+  border-radius: 5px;
+  width: 100%;
+  max-width: 340px;
+  margin-top: 12px;
+}
+
+.componenteSubscripcion {
+  background-color: #437856;
+  width: 96%;
+  height: 150px;
+  margin-left: 2%;
+  margin-right: 2%;
+  border-radius: 5px;
+}
+
+.textoSubscripcion {
+  color: white;
+  text-align: left;
+  font-size: 24px;
+  margin-left: 10%;
+}
+
+.inputSubscripcion {
+  width: 22%;
+  height: 40px;
+  margin-left: 10%;
+  font-size: 20px;
+}
+
+.botonSubscripcion {
+  color: black;
+  background-color: gray;
+  height: 40px;
+  width: 120px;
+  margin-left: 50%;
+  font-size: 15px;
+  font-weight: 800;
+}
+
+/* layout */
+.FormularioCentrado {
+  text-align: center;
+  margin: 0 auto;
+  width: 500px;
+}
+
+/* pages */
+/* themes */
+.boton1 {
+  background-color: #437856;
+  color: white;
+}
+
+.boton2 {
+  background-color: white;
+  color: black;
+}
+
+.sombreado {
+  background-color: #b0aaa5;
+}
+
+.logo {
+  width: 40px;
+  height: 40px;
+}
+
+.lineaAcoplado {
+  width: 100%;
+  margin-top: 50px;
+}
+
+.logoAspecto {
+  border-radius: 50px;
+}
+
+.imgBootstrap {
+  width: 36vw;
+  height: 16vw;
+  border-radius: 10px;
+}
+
+.imagenFin {
+  width: 15vw;
+  height: 11vw;
+}
+
+.tituloPrincipal {
+  font-size: 25px;
+  font-weight: 800;
+  display: inline;
+}
+
+.tituloFormulario {
+  font-size: 24px;
+}
+
+.comentarioPieDePagina {
+  text-align: right;
+  font-size: 14px;
+  display: inline;
+}
+
+.parrafo {
+  text-align: left;
+}
+
+/* vendors */
+
+/*# sourceMappingURL=styles.css.map */
+
