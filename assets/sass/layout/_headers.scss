@@ -1,0 +1,22 @@
+header{
+    display: flex;
+    align-content: center;
+    margin-top: 2rem;
+    margin-left: 2rem;
+
+    a {
+        margin-left: 2rem; 
+        margin-right: 2rem;
+    }
+}
+
+footer{
+    display: flex;
+    align-items: center;
+    margin-top: 2rem;
+    margin-left: 2rem;
+    p {
+        margin-left: 2rem; 
+        margin-right: 2rem;
+    }
+}

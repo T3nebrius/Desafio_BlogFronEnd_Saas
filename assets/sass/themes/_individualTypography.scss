@@ -2,6 +2,7 @@
     font-size: 25px;    
     font-weight: 800;
     display: inline;
+    flex-grow: 1;
 }
 
 .tituloFormulario{
@@ -11,9 +12,41 @@
 .comentarioPieDePagina{
     text-align: right;
     font-size: 14px;
-    display: inline;
+    display: inline-flex;
+    line-height: 1;
 }
 
 .parrafo{
     text-align: left;
+}
+
+.tituloFooter{
+    font-size: 15px;    
+    font-weight: 800;
+    display: inline;
+    flex-grow: 1;
+}
+
+.titulo_relacionados{
+    margin-top: 5rem;
+    font-size: 20px;    
+    font-weight: 800;
+    display: inline;
+}
+
+.populares__date {
+    font-size: 0.875rem;
+    color: #555;
+}
+
+.populares__headline {
+    font-size: 1.1rem;
+    font-weight: 700;
+}
+
+.populares__author-img {
+    width: 25px;
+    height: 25px;
+    margin-right: 0.5rem;
+    border-radius: 50%;
 }

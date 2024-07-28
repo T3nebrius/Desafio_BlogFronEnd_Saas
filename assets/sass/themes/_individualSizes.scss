@@ -1,6 +1,8 @@
 .logo{
     width: 40px;
     height: 40px;
+    border-radius: 10px;
+    margin-right: 1.4rem;
 }
 
 .lineaAcoplado{
@@ -21,4 +23,22 @@
 .imagenFin{
     width: 15vw;
     height: 11vw;
+    object-fit: cover;
+    border-radius: 0.5rem;
+}
+
+.contenedorTarjeta{
+    justify-content: center;
+    width: 13.425rem;
+    text-align: left;
+}
+
+.justificado{
+    display: flex;
+    justify-content: space-around;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between; 
 }
